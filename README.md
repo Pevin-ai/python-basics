@@ -6,3 +6,5 @@ This repository documents my progress from **Day 1 to Day 15**, covering the fun
 
 - **Day 1** — Variables and Data Types ✅  
    Completed by two tasks
+- **Day 2** — Input,Types of Casting & Operators ✅  
+   Completed by two tasks
