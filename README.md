@@ -13,4 +13,6 @@ This repository documents my progress from **Day 1 to Day 15**, covering the fun
 - **Day 4** — Loops(for & While )✅  
    Completed by two tasks  
 - **Day 5** — Nested Loop✅  
-   Completed by two tasks   
+   Completed by two tasks
+ - **Day 6** — String✅  
+   Completed by two tasks 
