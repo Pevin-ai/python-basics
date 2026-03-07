@@ -18,7 +18,7 @@ This repository documents my progress from **Day 1 to Day 15**, covering the fun
    Completed by two tasks 
 - **Day 7** — list✅  
    Completed by two tasks
-- **Day 7** — tuple✅  
+- **Day 8** — tuple✅  
    Completed by two tasks
   
    
